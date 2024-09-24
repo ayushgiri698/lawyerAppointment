@@ -10,7 +10,7 @@ Installation
 
     bash
 
-git clone https://github.com/ayushgiri698/lawyer-appointment-app.git
+
 cd lawyer-appointment-app
 
 Install dependencies:
